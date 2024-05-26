@@ -18,9 +18,10 @@
 
 <h1><a name="DataAnalysis">Data Analysis</a></h1>
 <p>
-  
-1. fa
-2. 
+
+  - Compare the sales and orders using single chart.
+![image](https://github.com/singhadarsh9191/Store-Data-Analysis-Excel/assets/135518627/61a23592-8945-4eb7-8c6a-26a6a0687ef4)
+
 </p>
 
 

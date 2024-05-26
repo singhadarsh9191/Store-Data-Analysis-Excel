@@ -4,7 +4,7 @@
 <ul>
   <li><a href="#Objective">Objective</a></li>
   <li><a href="#DataAnalysis">Data Analysis</a></li>
-  <li><a href="#FinalDashboard">FinalDashboard & Insights</a></li>
+  <li><a href="#FinalDashboard">Final Dashboard & Insights</a></li>
   <li><a href="#Conclusion">Conclusion</a></li>
 </ul>
 
